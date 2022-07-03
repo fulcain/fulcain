@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fulcain
 - 👀 I’m interested in web developmet
-- 🌱 I’m currently learning htlm/css 
+- 🌱 I’m currently learning html/css
 - 📫 How to reach me : IG: fulcainn / Phone number: +989170177388 (whatsapp)
 
 <!---
