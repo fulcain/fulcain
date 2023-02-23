@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fulcain
 - 👀 I’m interested in web developmet
 - 🌱 I’m currently learning html/css/js
-- 📫 How to reach me : IG: fulcainn / Phone number: +989170177388 (whatsapp)
+- 📫 How to reach me : IG: fulcainn / Phone number: +989170177388 (whatsapp) / Telegram: @fulcain
 
 <!---
 fulcain/fulcain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
