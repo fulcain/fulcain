@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fulcain&label=Profile%20views&color=0e75b6&style=flat" alt="fulcain" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning: **JavaScript**
 
-- 💬 Ask me about **bootstrap / HTML / CSS**
-
-- 📫 How to reach me **majidkargar01@gmail.com**
+- 📫 How to reach me: **majidkargar01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
