@@ -9,7 +9,7 @@
 - 📫 How to reach me: **majidkargar01@gmail.com**
 
 - ✅ all of my project are available at: **https://fulcain.ir**
-- 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <!-- html -->
