@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Majid Kargar</h1>
 <h3 align="center">Front-End Developer</h3>
 
-- 🌱 I’m currently learning: **JavaScript**
+- 🌱 I’m currently learning: Tailwind, React
 
 - 📫 How to reach me: **majidkargar01@gmail.com**
 
