@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="left">Hey 👋 What's up?</h2>
 
 ###
 
-<p align="center">I'm a Front-End Developer.</p>
+<h1 align="center">I'm a Front-End Developer.</h1>
 
 ###
 
