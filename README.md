@@ -1,14 +1,14 @@
 <h2 align="left">Hey 👋 What's up? My name is Majid Kargar.</h2>
 
-###
+##
 
 <h1 align="left">I'm a Front-End Developer.</h1>
 
-###
+##
 
 <h2 align="left">About me</h2>
 
-###
+##
 
 <p align="center">- I'm currently learning <b>React</b><br> -  How to reach me: <b>majidkargar01@gmail.com</b> <br>- All of my projects are available at: <b>https://fulcain.ir</b>
 
