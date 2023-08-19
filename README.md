@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">- I'm currently learning **React**<br> -  How to reach me: **majidkargar01@gmail.com**<br>- all of my projects are available at: **https://fulcain.ir**</p>
+<p align="center">- I'm currently learning <b>React</b><br> -  How to reach me: <b>majidkargar01@gmail.com</b> <br>- all of my projects are available at: <b>https://fulcain.ir**</b>
 
 ###
 
