@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">I'm a Front-End Developer.</h1>
+<h1 align="left">I'm a Front-End Developer.</h1>
 
 ###
 
