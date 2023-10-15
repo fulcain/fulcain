@@ -1,11 +1,6 @@
 <h2 align="left">Hey 👋 What's up? My name is Majid Kargar.</h2>
 
 ####
-
-<h1 align="left">I'm a Front-End Developer.</h1>
-
-####
-
 <h2 align="left">About me</h2>
 
 ####
