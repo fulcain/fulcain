@@ -32,9 +32,4 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
 </div>
-
-<div width="100%" align="center">
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fulcain&theme=dark"/>
-</div>
-
 ###
