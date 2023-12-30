@@ -3,6 +3,8 @@
 ####
 <h2 align="left">About me</h2>
 
+[![](https://visitcount.itsvg.in/api?id=Mahsa-Arabzadeh&icon=5&color=6)](https://visitcount.itsvg.in) <br>
+
 ####
 
 <p align="left">-  How to reach me: <b>majidkargar01@gmail.com</b> <br>- All of my projects are available at: <b><a href="https://fulcain.ir" target="_blank">fulcain.ir</a></b>
@@ -32,3 +34,4 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
 </div>
+
