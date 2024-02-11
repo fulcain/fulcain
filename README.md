@@ -1,9 +1,6 @@
 <h2 align="left">Hey 👋 What's up? My name is Majid Kargar.</h2>
 
 ####
-<h2 align="left">About me</h2>
-
-####
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/fulcain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fulcain" height="30" width="40" /></a>
